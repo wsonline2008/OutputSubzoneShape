@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BackInfo>
+  <ContractNoForReport>TCB929</ContractNoForReport>
+  <Contractor>xxxx</Contractor>
+  <ConnectionString>server=ToppineServer;database=TCB929;user=sa;password=Toppine123</ConnectionString>
+  <!--<ConnectionString>server=58.177.215.210;database=TCB929;user=sa;password=SaTp1234</ConnectionString>-->
+
+
+  <GetAisExportPath>AIS</GetAisExportPath>  
+  <AISExportTime>15:59,17:38</AISExportTime>  
+  <!--项目文件位置-->>
+  <WebPhysicalRootPath>D:\Toppine\TCB929\Toppine.ASD.Web.Web</WebPhysicalRootPath>
+  <!--虚拟目录的上级物理路径 如ASD_Files所在的上一级目录-->
+  <CurrentStorageFolderRootPath>D:\Toppine\TCB929\Toppine.ASD.Web.Web</CurrentStorageFolderRootPath>
+  <!--虚拟目录-->
+  <CurrentStorageFolder>ASD_Files</CurrentStorageFolder>
+
+  <!--自动导出路径-->
+  <AutoExportPath>D:\EMMS\ASD_Files\Business\Programme\Excel\</AutoExportPath>
+</BackInfo>
+
+
+
